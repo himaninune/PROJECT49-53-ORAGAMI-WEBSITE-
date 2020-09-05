@@ -1,0 +1,44 @@
+.heading{
+    background-color: cyan;
+    padding: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    
+
+}
+h1{
+    padding: 30px;
+}
+
+
+
+.menu{
+    background-color: cyan ;
+    margin: 100px;
+    
+    
+}
+
+.anchor{
+    margin-left: 100px;
+}
+
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+}
+.camel{
+    margin: 10px 50px;
+    
+}
+.chameleon{
+    margin: 10px 50px;
+}
+.pigeon{
+    margin: 10px 50px;
+}
+.teddy{
+    margin: 10px 50px;
+}
